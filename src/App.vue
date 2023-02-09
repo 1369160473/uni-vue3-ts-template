@@ -13,4 +13,8 @@ onHide(() => {
 </script>
 <style lang="scss">
 @import 'vk-uview-ui/index.scss';
+.flex_scp{
+	display: flex;
+	justify-content: space-between;
+}
 </style>
